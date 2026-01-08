@@ -101,6 +101,8 @@ O Aratiê OS tem como objetivo oferecer uma distribuição Linux:
 - Com foco em simplicidade e controle
 - Desenvolvida de forma aberta e transparente
 - Voltada para aprendizado, uso diário e experimentação
+- Que tenha um forte impacto social positivo
+- Pensada com cada detalhe voltado para inclusão social
 
 Este blog reflete o processo real de desenvolvimento, incluindo erros, decisões difíceis e soluções encontradas.
 
