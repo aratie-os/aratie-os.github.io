@@ -125,4 +125,4 @@ Se você quiser contribuir com o Aratiê OS, pode:
 🚧 **Em desenvolvimento ativo**  
 Mudanças frequentes podem ocorrer.
 
----
+
