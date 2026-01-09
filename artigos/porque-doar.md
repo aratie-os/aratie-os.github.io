@@ -31,6 +31,14 @@ Doar é uma forma de **dividir esses custos com a comunidade**, mantendo tudo fu
 
 ---
 
+## 💰 Você pode ter o recurso que precisa
+
+Não é que estamos priorizando quem paga ou cobrando pelo sistema, porém temos uma equipe pequena e custos, nós efetivamente pagamos a
+conta para que você e milhares de pessoas tenha um produto de qualidade gratuito, isso significa que nem sempre vamos ter recursos financeiros
+para implementar recursos, no entanto você pode lançar uma proposta e um valor e analisaremos a viaa
+
+---,
+
 ## ♿ Impacto social e inclusão
 
 O Aratiê OS nasce com um objetivo claro: **impacto social positivo**.
